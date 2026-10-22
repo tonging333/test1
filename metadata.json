@@ -1,0 +1,8 @@
+{
+  "name": "แดชบอร์ดสรุปงบประมาณโครงการสำหรับผู้บริหาร V.2",
+  "description": "ระบบติดตามงบประมาณและโครงการ (งบกลาง)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
